@@ -1,0 +1,15 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const ADD_USER = 'ADD_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const GET_ALL_USERS = 'GET_ALL_USERS';
+export const SORT_USERS = 'SORT_USERS';
+export const SORT_USERS_DSC = 'SORT_USERS_DSC';
+export const FILTER_USER_A = 'FILTER_USER_A';
+export const FILTER_USER_I = 'FILTER_USER_I';
+export const ADD_CONTACT = 'ADD_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const RESET = 'RESET';
+export const GET_PRODUCTS='GET_PRODUCTS'
+export const ADD_CART='ADD_CART'
+export const DELETE_CART='DELETE_CART'
